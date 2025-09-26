@@ -1,0 +1,125 @@
+[
+  {
+    "domain": "claro.qualtrics.com",
+    "httpOnly": true,
+    "name": "JSESSIONID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "90793439E0FC06CF8F3EC7FCE83D286C"
+  },
+  {
+    "domain": ".qualtrics.com",
+    "expiry": 1793474248,
+    "httpOnly": false,
+    "name": "t_uid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "19fec04a-c791-43cb-a663-d3a763b39a37"
+  },
+  {
+    "domain": "claro.qualtrics.com",
+    "httpOnly": true,
+    "name": "XM-CLIENT-LOCATION",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "yul1"
+  },
+  {
+    "domain": ".qualtrics.com",
+    "expiry": 1793474244,
+    "httpOnly": false,
+    "name": "brandID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "claro"
+  },
+  {
+    "domain": "claro.qualtrics.com",
+    "httpOnly": true,
+    "name": "UDSBrandID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "claro"
+  },
+  {
+    "domain": "claro.qualtrics.com",
+    "httpOnly": false,
+    "name": "XSRF-TOKEN",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "XSRF_4FZorvCE3vflLYi"
+  },
+  {
+    "domain": "claro.qualtrics.com",
+    "expiry": 1793474245,
+    "httpOnly": false,
+    "name": "UR_4MK27LRH8FZDNV8_PORTAL_MODE",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "Qualtrics"
+  },
+  {
+    "domain": "claro.qualtrics.com",
+    "httpOnly": false,
+    "name": "UDSSessionKey",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "923e8ff67f27b7f5a69f28ce900a434c2af812fb1b40a28fb89d312103588cae"
+  },
+  {
+    "domain": ".qualtrics.com",
+    "httpOnly": false,
+    "name": "t_sid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "3ec8293a-6071-4fdd-9494-ee800796ac5e"
+  },
+  {
+    "domain": ".qualtrics.com",
+    "expiry": 1793474249,
+    "httpOnly": false,
+    "name": "AMP_e831b49703",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJhNTc4ZmMzYi1kY2Y2LTQwZDgtYmVhNi00ZWU2ZWM3MWRlNzQlMjIlMkMlMjJ1c2VySWQlMjIlM0ElMjJVUl80TWsyN2xSaDhmWkROdjglMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzU4OTE0MjQ4MjcxJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc1ODkxNDI0OTMzMCUyQyUyMmxhc3RFdmVudElkJTIyJTNBNiUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMCU3RA=="
+  },
+  {
+    "domain": "claro.qualtrics.com",
+    "httpOnly": true,
+    "name": "UDSSessionID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "6a8a238c-8f65-48f4-89e8-aadc8d8a883c"
+  },
+  {
+    "domain": ".qualtrics.com",
+    "expiry": 1793474244,
+    "httpOnly": false,
+    "name": "userType",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "UT_HAaNRTd5WfUIfx"
+  },
+  {
+    "domain": ".qualtrics.com",
+    "expiry": 1758921398,
+    "httpOnly": false,
+    "name": "ak_bmsc",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1A50D60DF3036DD93DFC8BB26CE505AE~000000000000000000000000000000~YAAQhdcTArSI8VeZAQAAMsN0hx01JEcBxYmxAOEyc4UdELrwN2TWbdFlyUUfHVe4NJCRsBmi6eG/9JD34rw21E4r22s2uOnmlFnMV6ODxJuIApmsWhYZ+6YH7GPniK8FR5nGCcEVeldL28CUwlYSuzHMDnaqIjrYMgn8yK5EVJfhwKMf0LER6Aj/SMbTaRfWui4XDp9gD5S3J5plnXxzqHvcaxhaVP5OySyUYRzvdtod2l1o4pxKxiRoWp3JwkGJH6aFQk+N+YH4Tl3OOfpCmzSPNrl30aZtHBFT+uMLDyt2HBalIZLLSHa1Yh3E3XJQCHS2m/pqFiUQEN/ivlaL86PXToxAvtMIgpagLEWxMUpv7Nknjqs+11akrMaxFRXSyaLeDGaxEqingZbU6nPA"
+  }
+]
